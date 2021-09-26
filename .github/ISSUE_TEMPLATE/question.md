@@ -2,8 +2,9 @@
 name: Question
 about: 무엇이든 질문하세요~
 title: "[질문]"
-labels: ""
-assignees: ""
+labels: 질문
+assignees: ''
+
 ---
 
 ## 📌 개요

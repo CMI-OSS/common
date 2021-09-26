@@ -2,8 +2,9 @@
 name: Chore
 about: 세부 사항 변경용 issue
 title: "[CHORE]"
-labels: ""
-assignees: ""
+labels: chore
+assignees: ''
+
 ---
 
 ## 📌 개요

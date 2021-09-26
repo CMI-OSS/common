@@ -2,8 +2,9 @@
 name: Refactoring
 about: Refactoring 관련 이슈
 title: "[REFACTOR]"
-labels: "refactor \U0001F525"
-assignees: ""
+labels: refactor
+assignees: ''
+
 ---
 
 ## 📌 Refactoring 이유

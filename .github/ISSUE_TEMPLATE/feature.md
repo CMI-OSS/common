@@ -2,8 +2,9 @@
 name: Feature
 about: Suggest an idea for this project
 title: "[FEAT]"
-labels:
-assignees: ""
+labels: feature
+assignees: ''
+
 ---
 
 ## 📌 개요

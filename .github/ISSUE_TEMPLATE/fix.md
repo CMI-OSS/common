@@ -2,8 +2,9 @@
 name: Fix
 about: Describe this issue template's purpose here.
 title: "[FIX]"
-labels: ""
-assignees: ""
+labels: fix
+assignees: ''
+
 ---
 
 ## 📌 개요

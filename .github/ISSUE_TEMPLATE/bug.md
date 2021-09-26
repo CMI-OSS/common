@@ -2,8 +2,9 @@
 name: Bug
 about: Create a report to help us improve
 title: "[BUG]"
-labels: ""
-assignees: ""
+labels: bug
+assignees: ''
+
 ---
 
 ## 📌 문제 상황

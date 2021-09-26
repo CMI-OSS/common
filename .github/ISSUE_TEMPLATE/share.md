@@ -2,8 +2,9 @@
 name: Share
 about: 무엇이든 공유하세요~
 title: "[공유]"
-labels: ""
-assignees: ""
+labels: ''
+assignees: ''
+
 ---
 
 ## 📌 개요

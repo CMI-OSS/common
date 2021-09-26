@@ -2,8 +2,9 @@
 name: Suggest
 about: 무엇이든 제안하세요~
 title: "[제안]"
-labels: ""
-assignees: ""
+labels: 삽질
+assignees: ''
+
 ---
 
 ## 📌 개요

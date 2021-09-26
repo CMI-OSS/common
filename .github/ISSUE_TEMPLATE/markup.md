@@ -2,8 +2,9 @@
 name: Markup
 about: Markup과 관련된 이슈
 title: "[Markup]"
-labels: ""
-assignees: ""
+labels: markup
+assignees: ''
+
 ---
 
 ## 📌 개요
