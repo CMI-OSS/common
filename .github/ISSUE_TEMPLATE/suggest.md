@@ -1,7 +1,7 @@
 ---
-name: 건의
-about: 무엇이든 건의하세요~
-title: "[건의]"
+name: Suggest
+about: 무엇이든 제안하세요~
+title: "[제안]"
 labels: ""
 assignees: ""
 ---

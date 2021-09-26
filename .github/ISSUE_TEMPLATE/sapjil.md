@@ -1,5 +1,5 @@
 ---
-name: 삽질
+name: Sapjil
 about: 삽질 하고 있는 내용 공유
 title: "[삽질]"
 labels: ""
