@@ -2,7 +2,7 @@
 name: Suggest
 about: 무엇이든 제안하세요~
 title: "[제안]"
-labels: 삽질
+labels: 제안
 assignees: ''
 
 ---
