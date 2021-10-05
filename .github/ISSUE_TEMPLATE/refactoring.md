@@ -7,10 +7,17 @@ assignees: ''
 
 ---
 
-## 📌 Refactoring 이유
+## ✨ What?
 
-Refactoring이 필요한 이유를 적어주세요.
+무엇에 대한 이슈인가요?
 
+## 🛠 How?
+
+어떻게 해결할 것인가요?
+
+### AS-IS
+
+### TO-BE
 
 ### ✅ 참고 사항
 
